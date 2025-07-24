@@ -16,11 +16,11 @@ Evaluate how ESCO knowledge graph integration impacts precision, recall, and F1-
 
 ## Structure
 
-- `llm_only/` – Baseline LLM pipeline  
-- `llm_esco_guided/` – ESCO-augmented prompting pipeline  
-- `evaluation/` – Mapping, metrics, and results
+- llm only – Baseline LLM pipeline  
+- llm esco guided – ESCO-augmented prompting pipeline  
+- evaluation – Mapping, metrics, and results
 
-## 📊 Metrics
+## Metrics
 
 Performance compared using ground truth ESCO skills with:
 - Exact & fuzzy matching
