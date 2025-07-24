@@ -1,6 +1,6 @@
 # LLM vs. LLM+KG Skill Extraction
 
-This project compares two pipelines for extracting professional skills from resumes:
+This project compares two pipelines for extracting professional skills from resumes.
 
 - **LLM-Only**: Extracts skills using LLaMA 3.3-70B without few-shot prompting.
 - **LLM+KG**: Enhances extraction with ESCO-guided prompting and few-shot examples 
