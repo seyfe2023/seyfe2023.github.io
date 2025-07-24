@@ -13,6 +13,7 @@ Evaluate how ESCO knowledge graph integration impacts precision, recall, and F1-
 
 - Python · Pandas · Hugging Face Transformers · LLaMA 3.3-70B (via SambaNova)  
 - ResumeAtlas dataset · ESCO ontology
+- Source: https://huggingface.co/datasets/ahmedheakl/resume-atlas
 
 ## Structure
 
